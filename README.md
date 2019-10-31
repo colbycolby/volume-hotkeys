@@ -4,12 +4,11 @@ autohotkey script for changing windows master volume
 
 ## Install
 
-```
+1. Download and install [AutoHotkey](https://www.autohotkey.com/)
 
-git clone to C:\
+2. git clone this repository to `C:\`
 
-add shortcut to .ahk file in windows startup folder
-```
+3. Add shortcut to `.ahk` file in windows startup folder
 
 ## How to use
 
